@@ -4,3 +4,7 @@ SOSS Kopilica, Primijenjeno računarstvo - 1. godina, 1. semestar; akademska god
 
 Nositeljica predmeta: Ljiljana Despalatović, v. pred.  
 Suradnica/asistentica: Lea Dujić Rodić  
+
+## Seminar
+
+[Solution for the TopCoder problem "ChristmasTravel"](https://github.com/anamarijapapic/ChristmasTravel)
