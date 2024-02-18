@@ -1,0 +1,31 @@
+*Vertices
+0 London
+1 Berlin
+2 Madrid
+3 Kyev
+4 Rome
+5 Paris
+6 Minsk
+7 Stockholm
+8 Dublin
+9 Vienna
+10 Split
+*Edges
+0 5 343
+1 6 954
+1 5 879
+2 5 1054
+2 4 1364
+3 6 433
+4 5 1106
+8 0 464
+0 7 1435
+1 7 811
+6 7 837
+4 9 766
+3 9 1053
+1 9 524
+10 4 369
+10 9 522
+10 0 1523
+10 5 1235
